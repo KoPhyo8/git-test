@@ -1,0 +1,3 @@
+D:/2SAEI_Class/c_pointer/cmake-build-debug/CMakeFiles/c_pointer.dir
+D:/2SAEI_Class/c_pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/2SAEI_Class/c_pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

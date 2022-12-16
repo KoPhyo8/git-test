@@ -1,0 +1,23 @@
+# ninja log v5
+0	234	6928804026997211	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+236	914	6928804033710060	c_pointer.exe	71b0526b64c28c07
+5	222	6928804361832446	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+223	486	6928804363844330	c_pointer.exe	71b0526b64c28c07
+5	201	6928804473410058	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+202	427	6928804475747312	c_pointer.exe	71b0526b64c28c07
+5	193	6928804590303805	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+194	392	6928804592225627	c_pointer.exe	71b0526b64c28c07
+4	155	6928805388640177	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+155	354	6928805390470875	c_pointer.exe	71b0526b64c28c07
+3	174	6928805919254416	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+175	408	6928805921565345	c_pointer.exe	71b0526b64c28c07
+3	212	6928810576611999	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+212	476	6928810578691840	c_pointer.exe	71b0526b64c28c07
+3	130	6928810666510495	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+131	325	6928810668359238	c_pointer.exe	71b0526b64c28c07
+2	270	6928816160041925	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+270	738	6928816164618181	c_pointer.exe	71b0526b64c28c07
+5	176	6928817636937960	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+176	355	6928817638801737	c_pointer.exe	71b0526b64c28c07
+4	137	6928819060750187	CMakeFiles/c_pointer.dir/main.c.obj	8ffd72a44e1bbaf4
+137	317	6928819062449215	c_pointer.exe	71b0526b64c28c07
